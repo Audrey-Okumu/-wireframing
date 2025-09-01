@@ -46,4 +46,27 @@ Functionality refers to the interactive components that show how the product wil
 
 By combining these elements, wireframes ensure that a design is clear, user-friendly, and aligned with the project’s goals.
 
+## Types of Wireframes
+
+Wireframes can be created with different levels of detail depending on the stage of the design process. The two main types are **low-fidelity** and **high-fidelity** wireframes.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity (lo-fi) wireframes are simple sketches or outlines that focus on the basic structure and layout of a design without details like colors, fonts, or exact spacing. They are usually quick to create and easy to update.  
+- **When to use:**  
+  - Early in the design process to brainstorm and share ideas.  
+  - When testing different layout options with teammates or stakeholders.  
+- **Example:** A hand-drawn sketch showing where the header, sidebar, and main content will go.
+
+### 2. High-Fidelity Wireframes
+High-fidelity (hi-fi) wireframes are more detailed and precise. They often include exact spacing, typography, images, and sometimes interactive elements to closely resemble the final product.  
+- **When to use:**  
+  - Later in the design process when the structure is finalized.  
+  - To present polished concepts to stakeholders or prepare for usability testing.  
+- **Example:** A digital wireframe made in tools like Figma or Adobe XD that shows actual buttons, forms, and sample text.
+
+---
+
+In short, **low-fidelity wireframes** are best for quickly exploring ideas, while **high-fidelity wireframes** are used to refine and communicate the final design before development.
+
+
 
